@@ -1,0 +1,21 @@
+{
+  "name": "html-import-style-deprecation",
+  "version": "1.0.0",
+  "description": "Test html import styling issue.",
+  "scripts": {
+    "serve": "lite-server -c=bs-config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelalvin/html-import-style-deprecation"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Samuel Hutama",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}

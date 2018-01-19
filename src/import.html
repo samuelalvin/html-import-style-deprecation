@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<style>
+    .import-p {
+        color: brown;
+    }
+</style>
+<script>
+    var importDoc = document.currentScript.ownerDocument;
+    var style = importDoc.querySelector('style');
+    document.head.appendChild(style);
+</script>
